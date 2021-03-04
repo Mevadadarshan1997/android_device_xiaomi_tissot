@@ -53,7 +53,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 KANGOS_BUILDTYPE := OFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.kangos.maintainer=DarshanMevada \
-  ro.kangos.cpu=sdm660
+  ro.kangos.cpu=msm8953
 USE_GAPPS := true
 TARGET_INCLUDE_AOSP_REPLACEMENT := true
 
